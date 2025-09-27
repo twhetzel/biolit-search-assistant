@@ -23,7 +23,7 @@ def fuse_pubmed(r):
 def fuse_ontology(r):
     text = f"{r['label']}. {r['definition']}"
     return {"doc_id": r["id"], "title": r["label"], "text": text, "source": "mondo",
-            "link": f"https://monarchinitiative.org/disease/{r['id'].replace(':','_')}"}
+            "link": f"http://purl.obolibrary.org/obo/{r['id'].replace(':','_')}"}
 
 corpus = pd.DataFrame([fuse_pubmed(r) for _, r in pm.iterrows()] +
                       [fuse_ontology(r) for _, r in on.iterrows()])

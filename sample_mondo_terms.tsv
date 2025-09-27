@@ -1,21 +1,20 @@
 id	label	definition
-MONDO:0004979	Alzheimer disease	A progressive neurodegenerative disorder characterized by memory loss and cognitive decline.
-MONDO:0006047	Parkinson disease	A movement disorder due to loss of dopaminergic neurons with tremor and rigidity.
-MONDO:0005148	Breast carcinoma	A malignant neoplasm arising from the epithelial cells of the breast tissue.
-MONDO:0008601	Type 2 diabetes mellitus	A metabolic disease characterized by insulin resistance and hyperglycemia.
-MONDO:0019391	Atherosclerosis	A condition in which the arteries narrow due to plaque buildup, elevating risk of heart attack.
-MONDO:0007254	Asthma	A chronic inflammatory disease of the airways characterized by variable airflow obstruction.
-MONDO:0020121	Chronic kidney disease	A long-term condition where the kidneys do not work as well as they should.
-MONDO:0005147	Lung carcinoma	A malignant tumor of the lung, often associated with smoking but also occurring in non-smokers.
-MONDO:0019392	Coronary artery disease	A disease of the coronary arteries characterized by reduced blood flow to the heart muscle.
-MONDO:0013373	Amyotrophic lateral sclerosis	A progressive neurodegenerative disease affecting motor neurons leading to muscle weakness.
-MONDO:0005139	Colorectal carcinoma	A malignant epithelial neoplasm of the colon or rectum.
-MONDO:0005149	Prostate carcinoma	A malignant neoplasm originating in the prostate gland.
-MONDO:0001627	Hypertension	A condition in which the blood pressure in the arteries is persistently elevated.
-MONDO:0001629	Myocardial infarction	Commonly known as a heart attack; necrosis of the myocardium due to ischemia.
-MONDO:0001622	Heart failure	A clinical syndrome where the heart is unable to pump sufficient blood to meet the body's needs.
-MONDO:0005010	Epilepsy	A neurological disorder characterized by recurrent unprovoked seizures.
-MONDO:0019393	Stroke	A sudden loss of brain function due to disturbance in the blood supply to the brain.
-MONDO:0009061	Rheumatoid arthritis	An autoimmune disease that causes chronic inflammation of joints and other areas of the body.
-MONDO:0007256	Chronic obstructive pulmonary disease	A group of progressive lung diseases including emphysema and chronic bronchitis.
-MONDO:0019952	Osteoporosis	A skeletal disorder characterized by compromised bone strength predisposing to an increased risk of fracture.
+MONDO:0004975	Alzheimer disease	A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.
+MONDO:0005180	Parkinson disease	A progressive degenerative disorder of the central nervous system characterized by loss of dopamine producing neurons in the substantia nigra and the presence of Lewy bodies in the substantia nigra and locus coeruleus. Signs and symptoms include tremor which is most pronounced during rest, muscle rigidity, slowing of the voluntary movements, a tendency to fall back, and a mask-like facial expression.
+MONDO:0004989	Breast carcinoma	A carcinoma that arises from epithelial cells of the breast.
+MONDO:0005148	Type 2 diabetes mellitus	A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity.
+MONDO:0005311	Atherosclerosis	A disease characterized by the build-up of fatty material and calcium deposition in the arterial wall resulting in partial or complete occlusion of the arterial lumen.
+MONDO:0004979	Asthma	A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, exercise, stress, reflux disease, medications, foods and emotional anxiety.
+MONDO:0005300	Chronic kidney disease	Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+MONDO:0005138	Lung carcinoma	A carcinoma that arises from epithelial cells of the lung.
+MONDO:0005010	Coronary artery disease	Narrowing of the coronary arteries due to fatty deposits inside the arterial walls. The diagnostic criteria may include documented history of any of the following: documented coronary artery stenosis greater than or equal to 50% (by cardiac catheterization or other modality of direct imaging of the coronary arteries); previous coronary artery bypass surgery (CABG); previous percutaneous coronary intervention (PCI); previous myocardial infarction. (ACC)
+MONDO:0024331	Colorectal carcinoma	A malignant epithelial neoplasm that arises from the colon or rectum and invades through the muscularis mucosa into the submucosa. The vast majority are adenocarcinomas.
+MONDO:0005159	Prostate carcinoma	A carcinoma that arises from epithelial cells of the prostate gland.
+MONDO:0005044	Hypertensive Disorder	Persistently high systemic arterial blood pressure. Based on multiple readings (blood pressure determination), hypertension is currently defined as when systolic pressure is consistently greater than 140 mm Hg or when diastolic pressure is consistently 90 mm Hg or more.
+MONDO:0005068	Myocardial infarction	Gross necrosis of the myocardium, as a result of interruption of the blood supply to the area, as in coronary thrombosis.
+MONDO:0005252	Heart failure	Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. Clinical symptoms of heart failure include: unusual dyspnea on light exertion, recurrent dyspnea occurring in the supine position, fluid retention or rales, jugular venous distension, pulmonary edema on physical exam, or pulmonary edema on chest x-ray presumed to be cardiac dysfunction.
+MONDO:0005027	Epilepsy	A brain disorder characterized by episodes of abnormally increased neuronal discharge resulting in transient episodes of sensory or motor neurological dysfunction, or psychic dysfunction. These episodes may or may not be associated with loss of consciousness or convulsions.
+MONDO:0005098	stroke disorder	A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.
+MONDO:0008383	Rheumatoid arthritis	A chronic, systemic autoimmune disorder characterized by inflammation in the synovial membranes and articular surfaces. It manifests primarily as a symmetric, erosive polyarthritis that spares the axial skeleton and is typically associated with the presence in the serum of rheumatoid factor.
+MONDO:0005002	Chronic obstructive pulmonary disease	A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema.
+MONDO:0005298	Osteoporosis	A condition of reduced bone mass, with decreased cortical thickness and a decrease in the number and size of the trabeculae of cancellous bone (but normal chemical composition), resulting in increased fracture incidence. Osteoporosis is classified as primary (Type 1, postmenopausal osteoporosis; Type 2, age-associated osteoporosis; and idiopathic, which can affect juveniles, premenopausal women, and middle-aged men) and secondary osteoporosis (which results from an identifiable cause of bone mass loss).
