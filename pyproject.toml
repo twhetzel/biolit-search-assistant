@@ -1,0 +1,24 @@
+[project]
+name = "biolit-search"
+version = "0.1.0"
+description = "NeMo-ready biomedical literature + ontology semantic search starter"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+authors = [{name="Trish Whetzel"}]
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "sentence-transformers",
+  "streamlit",
+  "umap-learn"
+]
+
+[project.scripts]
+biolit-search = "biolit_search.cli:main"
+biolit-search-app = "biolit_search.app:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
