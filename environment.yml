@@ -1,0 +1,20 @@
+name: biolit-nemo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - umap-learn
+  - sentence-transformers
+  - pytorch
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+      - streamlit==1.36.0
+      - protobuf==4.25.3
+      - dataframe-image
